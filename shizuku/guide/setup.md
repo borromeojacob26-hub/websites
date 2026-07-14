@@ -1,8 +1,9 @@
-# User manual
+jacob b borromeo# User manual
 
 [[toc]]
 
-## Start Shizuku
+## Start Sh
+izuku
 
 Shizuku supports startup in the following three ways.
 
